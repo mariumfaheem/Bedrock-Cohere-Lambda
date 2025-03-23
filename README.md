@@ -31,3 +31,16 @@ rag_env/bin/python -m streamlit run app.py
 
 ![img.png](img.png)
 
+## Summarization Manufacturing industry use case
+
+![img.png](img.png)
+
+### Technical Architecture:
+![img_1.png](img_1.png)
+
+Services used:
+1. AWS Bedrock
+2. AWS Lambda
+3. 
+
+
